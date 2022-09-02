@@ -7,6 +7,7 @@ import Home from "../pages/Home/Home.js";
 import Services from "../pages/Services/Services.js";
 import About from "../pages/About/About.js";
 import Feedback from "../pages/Feedback/Feedback.js";
+import Footer from "../pages/Home/Footer/Footer";
 
 function App() {
   return (
@@ -76,6 +77,7 @@ function App() {
           <Route path="feedback" element={<Feedback />} />
         </Routes>
       </BrowserRouter>
+      <Footer />
     </>
   );
 }
