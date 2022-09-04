@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.carousel-caption h3 {
+  font-size: 7vw;
+}
+
+.carousel-caption p {
+  font-size: 3vw;
+}
+
+.carousel-item{
+  height: 85vh;
+}
+
+.carousel {
+  height: auto;
+  width: 100%;
+  /* position: absolute;
+} */
+}
+
+.carousel-item{
+  padding: 0px;
+}

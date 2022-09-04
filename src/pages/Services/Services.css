@@ -1,0 +1,35 @@
+.card{
+width: 25rem;
+display: block;
+}
+
+ .card-title{
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#card1{
+    margin-left: 5%;
+    overflow: hidden;
+    
+}
+
+#card2{
+    margin-left: 30%;
+}
+
+#card3{
+    margin-left: 55%;
+}
+
+#card1, #card2, #card3{
+    transition: transform 0.5s;
+    border-color: blue;
+  }
+
+#card1:hover, #card2:hover, #card3:hover{
+    transform: scale(1.15);
+}
+
+
+
