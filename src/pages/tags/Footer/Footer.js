@@ -33,7 +33,7 @@ export default function Footer() {
                 <ul>
                   <li>
                     <ImMail3 />                 
-                    <a href="###">  prostir@gmail.com</a>                    
+                    <span>  itprostirit@gmail.com</span>                    
                   </li>
                   <li>
                     <ImPhone />                 

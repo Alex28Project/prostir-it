@@ -1,0 +1,19 @@
+
+.pageMain{
+   
+    border: solid 2px blue;
+    border-radius: 30%;
+    font-family: Open Sans;    
+}
+
+.container h4{
+    font-size: 20px;
+}
+
+hr{
+    color: blue;
+}
+
+.container-fluid{
+    box-shadow: 15px 15px 18px -5px black;
+}

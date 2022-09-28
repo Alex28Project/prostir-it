@@ -1,0 +1,54 @@
+.price {
+  margin-top: 5%;
+  margin-left: 13%;
+  margin-bottom: 4%;
+
+}
+
+table {
+  margin-left: 35%;  
+  border: 3px solid blue;
+  box-shadow: 39px 39px 43px -5px black;
+}
+
+th {
+
+  font-weight: normal;
+  color: black;
+  padding: 10px;
+}
+
+td {
+  color: black;
+  border-top: 1px dashed white;
+  padding: 10px;
+  background: #3d90f0;
+  box-shadow: inset 0 0 25px white;
+  
+}
+
+tbody tr td{
+  font-size: 19px;
+  border: 1px solid black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+tr:hover td {
+  background: white;
+  color: black;
+}
+
+thead tr td{
+  text-align: center;
+  font-size: 28px; 
+  border: 2px solid black;
+  font-weight: bolder;
+}
+
+tbody tr td h6{
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  font-style: italic;
+}

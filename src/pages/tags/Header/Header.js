@@ -25,7 +25,7 @@ export default function Header() {
               </div>
               <div class="carousel-item">
                 <img
-                  src={require("./CarouselImage2.jpg")}
+                  src={require("./CarouselImage5.jpg")}
                   class="d-block w-100 h-100"
                   alt="..."
                 />

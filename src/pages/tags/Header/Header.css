@@ -2,6 +2,10 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.container-fluid{
+  font-family: Montserrat;
+}
 .carousel-caption h3 {
   font-size: 7vw;
 }

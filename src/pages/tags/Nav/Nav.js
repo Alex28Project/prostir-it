@@ -48,7 +48,7 @@ export default function Nav() {
               </li>
             </ul>
             
-            <form class="d-flex">
+            {/* <form class="d-flex">
               <input
                 class="form-control me-2"
                 type="search"
@@ -58,7 +58,7 @@ export default function Nav() {
               <button class="btn btn-primary" type="submit">
                 Пошук
               </button>
-            </form>
+            </form> */}
           </div>
         </div>
       </nav>      
