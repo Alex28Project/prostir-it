@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e7c31c9.css",
+    "main.js": "/static/js/main.a9334cb6.js",
+    "static/media/background3.jpg": "/static/media/background3.ae3611d2b9c699ce1292.jpg",
+    "static/media/card6.jpg": "/static/media/card6.8b0d37e74bc86e40479d.jpg",
+    "static/media/CarouselImage3.jpg": "/static/media/CarouselImage3.144f027fc5d9c6568ec8.jpg",
+    "static/media/CarouselImage5.jpg": "/static/media/CarouselImage5.4fe90bd7a9899f7eead9.jpg",
+    "static/media/card2.jpg": "/static/media/card2.8fc9bdb410983b0fe5ad.jpg",
+    "static/media/CarouselImage1.jpg": "/static/media/CarouselImage1.4a8939c0386f4aa616cc.jpg",
+    "static/media/card3.jpg": "/static/media/card3.171c1246f1c9113408bd.jpg",
+    "static/media/contact6.png": "/static/media/contact6.29cc7025f1c56248cb0c.png",
+    "static/media/card4.jpg": "/static/media/card4.5360746fa470fdb2a176.jpg",
+    "static/media/contact7.png": "/static/media/contact7.6654c80d7125de1ff1ed.png",
+    "static/media/card5.jpg": "/static/media/card5.22ee9e41ef58c8e4f39d.jpg",
+    "static/media/card1.jpg": "/static/media/card1.d124c7e15607f2ad00e0.jpg",
+    "static/media/Logotip12.png": "/static/media/Logotip12.413bf6c31e3e4be23e5f.png",
+    "index.html": "/index.html",
+    "main.9e7c31c9.css.map": "/static/css/main.9e7c31c9.css.map",
+    "main.a9334cb6.js.map": "/static/js/main.a9334cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7c31c9.css",
+    "static/js/main.a9334cb6.js"
+  ]
+}
